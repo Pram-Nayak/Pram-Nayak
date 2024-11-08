@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pram-nayak&show_icons=true&locale=en" alt="pram-nayak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pram-nayak&" alt="pram-nayak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pram-nayak&" alt="pram-nayak"/></p>
