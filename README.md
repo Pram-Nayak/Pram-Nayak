@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham Nayak</h1>
-<h3 align="center">I am an Ariticial Intelligence & Machine Learning(AI&ML) Post Graduate student studying @ Manipal School of Information Sciences (MSIS), MAHE</h3>
+<h3 align="center"></h3>
 
 <img align="right" alt="Coding" width="250" src="https://drive.google.com/uc?export=view&id=1m_3OI3-_dLh7PqtPM-IFtCtgTlm7WB9q">
 
